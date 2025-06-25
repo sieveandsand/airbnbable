@@ -1,3 +1,5 @@
+# Enumerations of various data types used by Airbnb
+
 property_type_values = [
     "Campsite",
     "Casa particular",
@@ -62,4 +64,26 @@ bathroom_type_values = [
     "shared bath",
     "private bath",
 ]
+
+features = [
+    "has_tv",
+    "has_wifi",
+    "has_kitchen_appliances",
+    "has_air_conditioning",
+    "has_washer",
+    "has_dryer",
+    "has_toiletries",
+    "has_coffee",
+    "has_breakfast",
+    "has_free_parking",
+    "has_paid_parking",
+    "has_pool",
+    "has_gym",
+    "has_hot_tub",
+    "has_dishwasher",
+    "has_patio",
+    "has_backyard",
+]
+
+
 
