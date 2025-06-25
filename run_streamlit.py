@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Feifan Qiao
 """
 Launcher script for the Airbnb Revenue Predictor Streamlit app.
 This script installs dependencies and runs the Streamlit application.
